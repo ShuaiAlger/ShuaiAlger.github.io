@@ -31,8 +31,8 @@ My research interest includes equivariant representation, visual localization.
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/dream.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Rotation-equivariant correspondence matching based on a dual-activation mixer](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011761)
-
+[Rotation-equivariant correspondence matching based on a dual-activation mixer]https://www.sciencedirect.com/science/article/abs/pii/S0925231223011761)
+**Shuai**
 
 # 📝 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/ctcalib.png' alt="sym" width="30%"></div></div>
