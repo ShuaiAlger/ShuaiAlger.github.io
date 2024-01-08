@@ -67,7 +67,7 @@ Accurate and robust correspondence matching is of utmost importance for various 
 
 # 📝 Projects
 - Rotation-equivariant correspondence matching.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR24</div><img src='images/repedesc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open</div><img src='images/repedesc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Rotation-Equivariance and Position Encodings for Enhancing Local Descriptors](https://openreview.net/pdf?id=6tDPefQyvB)
 **Shuai Su**, Qijun Chen
@@ -75,13 +75,13 @@ Keypoint extraction and description are crucial issues in robot vision. In recen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR24</div><img src='images/sdk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open</div><img src='images/sdk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 SDK
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME24</div><img src='images/predfm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open</div><img src='images/predfm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 PREDFM
 </div>
