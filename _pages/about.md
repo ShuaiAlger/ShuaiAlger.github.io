@@ -47,13 +47,24 @@ Correspondence matching is a fundamental problem in computer vision and robotics
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCVW</div><img src='images/transparentstereo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA23</div><img src='images/transparentstereo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Transparent Objects: A Corner Case in Stereo Matching](https://ieeexplore.ieee.org/abstract/document/10161385)
 Zhiyuan Wu; **Shuai Su**; Qijun Chen; Rui Fan
 Stereo matching is a common technique used in 3D perception, but transparent objects such as reflective and penetrable glass pose a challenge as their disparities are often estimated inaccurately. In this paper, we propose transparency-aware stereo (TA-Stereo), an effective solution to tackle this issue. TA-Stereo first utilizes a semantic segmentation or salient object detection network to identify transparent objects, and then homogenizes them to enable stereo matching algorithms to handle them as non-transparent objects. To validate the effectiveness of our proposed TA-Stereo strategy, we collect 260 images containing transparent objects from the KITTI Stereo 2012 and 2015 datasets and manually label pixel-level ground truth. We evaluate our strategy with six deep stereo networks and two types of transparent object detection methods. Our experiments demonstrate that TA-Stereo significantly improves the disparity accuracy of transparent objects. Our project webpage can be accessed at mias.group/TA-Stereo.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/e3cm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[E3CM: Epipolar-constrained cascade correspondence matching](https://www.sciencedirect.com/science/article/pii/S0925231223009116)
+Chenbo Zhou; **Shuai Su**; Qijun Chen; Rui Fan
+Accurate and robust correspondence matching is of utmost importance for various 3D computer vision tasks. However, traditional explicit programming-based methods often struggle to handle challenging scenarios, and deep learning-based methods require large well-labeled datasets for network training. In this article, we introduce Epipolar-Constrained Cascade Correspondence (E3CM), a novel approach that addresses these limitations. Unlike traditional methods, E3CM leverages pre-trained convolutional neural networks to match correspondence, without requiring annotated data for any network training or fine-tuning. Our method utilizes epipolar constraints to guide the matching process and incorporates a cascade structure for progressive refinement of matches. We extensively evaluate the performance of E3CM through comprehensive experiments and demonstrate its superiority over existing methods.
+</div>
+</div>
+
+
 # 📝 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/ctcalib.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
