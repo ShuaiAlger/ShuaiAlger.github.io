@@ -77,13 +77,13 @@ Keypoint extraction and description are crucial issues in robot vision. In recen
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR24</div><img src='images/sdk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+SDK
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME24</div><img src='images/predfm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+PREDFM
 </div>
 </div>
 
