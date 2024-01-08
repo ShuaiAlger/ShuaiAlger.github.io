@@ -30,11 +30,12 @@ My research interest includes equivariant representation, visual localization.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/dream.png' alt="sym" width="30%"></div></div>
+[Rotation-equivariant correspondence matching based on a dual-activation mixer](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011761)
 
-  
+
 # 📝 Projects
-- Continous-time based Lidar-camera calibration.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/ctcalib.png' alt="sym" width="30%"></div></div>
+Continous-time based Lidar-camera calibration.
 
 - Rotation-equivariant correspondence matching.
 - Visual localization system for human-computer interaction under heterogeneous cameras.
