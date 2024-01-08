@@ -51,6 +51,7 @@ Correspondence matching is a fundamental problem in computer vision and robotics
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/ctcalib.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Continous-time based Lidar-camera calibration.
+</div></div>
 
 - Rotation-equivariant correspondence matching.
 - Visual localization system for human-computer interaction under heterogeneous cameras.
