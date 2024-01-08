@@ -39,7 +39,7 @@ Learning-based correspondence matching methods have become the mainstream techni
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCVW</div><img src='images/dream.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCVW</div><img src='images/sim2e.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SIM2E: Benchmarking the Group Equivariant Capability of Correspondence Matching Algorithms](https://link.springer.com/chapter/10.1007/978-3-031-25056-9_47)
 **Shuai Su**, Zhongkai Zhao, Yixin Fei, Shuda Li, Qijun Chen, Rui Fan
@@ -47,6 +47,13 @@ Correspondence matching is a fundamental problem in computer vision and robotics
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCVW</div><img src='images/transparentstereo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Transparent Objects: A Corner Case in Stereo Matching](https://ieeexplore.ieee.org/abstract/document/10161385)
+Zhiyuan Wu; **Shuai Su**; Qijun Chen; Rui Fan
+Stereo matching is a common technique used in 3D perception, but transparent objects such as reflective and penetrable glass pose a challenge as their disparities are often estimated inaccurately. In this paper, we propose transparency-aware stereo (TA-Stereo), an effective solution to tackle this issue. TA-Stereo first utilizes a semantic segmentation or salient object detection network to identify transparent objects, and then homogenizes them to enable stereo matching algorithms to handle them as non-transparent objects. To validate the effectiveness of our proposed TA-Stereo strategy, we collect 260 images containing transparent objects from the KITTI Stereo 2012 and 2015 datasets and manually label pixel-level ground truth. We evaluate our strategy with six deep stereo networks and two types of transparent object detection methods. Our experiments demonstrate that TA-Stereo significantly improves the disparity accuracy of transparent objects. Our project webpage can be accessed at mias.group/TA-Stereo.
+</div>
+</div>
 # 📝 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/ctcalib.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
