@@ -31,8 +31,10 @@ My research interest includes equivariant representation, visual localization.
 # 📝 Publications 
 
 
-
-
+# 📝 Projects
+- Continous-time based Lidar-camera calibration.
+- Rotation-equivariant correspondence matching.
+- Visual localization system for human-computer interaction under heterogeneous cameras.
 
 # 🎖 Honors and Awards
 - *2021.10*
