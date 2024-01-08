@@ -19,11 +19,13 @@ redirect_from:
 
 Shuai
 
-My research interest includes equivariant representation, visual localization.
+My research interests are centered around three-dimensional vision in robotics, encompassing areas such as image matching, equivariant representation learning, visual localization, and extrinsic calibration.
 
 
 # 🔥 News
+- *2023.11*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Intelligent Transportation Systems.
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by Neurocomputing.
+- *2023.09*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Instrumentation & Measurement
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by Neurocomputing.
 - *2023.01*: &nbsp;🎉🎉 One paper accepted by ICRA-2023.
 - *2022.08*: &nbsp;🎉🎉 One paper accepted by ECCVW-2022.
@@ -100,15 +102,14 @@ Continous-time based Lidar-camera calibration.
 Visual Localization System for autonomous Parking in Underground garages.
 </div></div>
 
-# 🎖 Honors and Awards
-- *2021.10*
 
 # 📖 Educations
 - *2020.09 - 2025.03*, Control Science and Engineering.
 - *2016.09 - 2020.06*, Electronic and Information Engineering.
 
-# 💬 Invited Talks
-- *2021.06*,
 
 # 💻 Internships
 - *2021.07 - 2021.10*, NIO Autonomous Driving Algorithm Department, Shanghai, China.
+- *2023.04 - 2023.12*, Industrial robot production line, Machine Vision Department, Jiangsu, China.
+
+
