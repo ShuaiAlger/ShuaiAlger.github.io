@@ -29,12 +29,12 @@ My research interest includes equivariant representation, visual localization.
 - *2022.08*: &nbsp;🎉🎉 One paper accepted by ECCVW-2022.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/dream.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/dream.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # 📝 Projects
 - Continous-time based Lidar-camera calibration.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/ctcalib.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/ctcalib.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 - Rotation-equivariant correspondence matching.
 - Visual localization system for human-computer interaction under heterogeneous cameras.
