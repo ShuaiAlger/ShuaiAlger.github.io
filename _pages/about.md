@@ -95,6 +95,10 @@ Continous-time based Lidar-camera calibration.
 
 
 - Visual localization system for human-computer interaction under heterogeneous cameras.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/UPVLoc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Visual Localization System for autonomous Parking in Underground garages.
+</div></div>
 
 # 🎖 Honors and Awards
 - *2021.10*
