@@ -105,10 +105,7 @@ Continous-time based Lidar-camera calibration.
 <div class='paper-box-text' markdown="1">
 Visual Localization System for autonomous Parking in Underground garages.
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/UPVLoc.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Visual Localization System for autonomous Parking in Underground garages.
-</div></div>
+
 
 # 📖 Educations
 - *2020.09 - 2025.03*, Control Science and Engineering.
