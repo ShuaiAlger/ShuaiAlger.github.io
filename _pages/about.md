@@ -27,6 +27,7 @@ My research interests are centered around three-dimensional vision in robotics, 
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by Neurocomputing.
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Instrumentation & Measurement
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by Neurocomputing.
+- *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV-2023.
 - *2023.01*: &nbsp;🎉🎉 One paper accepted by ICRA-2023.
 - *2022.08*: &nbsp;🎉🎉 One paper accepted by ECCVW-2022.
 
