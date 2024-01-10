@@ -31,6 +31,9 @@ My research interests are centered around three-dimensional vision in robotics, 
 - *2023.01*: &nbsp;🎉🎉 One paper accepted by ICRA-2023.
 - *2022.08*: &nbsp;🎉🎉 One paper accepted by ECCVW-2022.
 
+
+
+
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/dream.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -102,7 +105,10 @@ Continous-time based Lidar-camera calibration.
 <div class='paper-box-text' markdown="1">
 Visual Localization System for autonomous Parking in Underground garages.
 </div></div>
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/UPVLoc.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Visual Localization System for autonomous Parking in Underground garages.
+</div></div>
 
 # 📖 Educations
 - *2020.09 - 2025.03*, Control Science and Engineering.
