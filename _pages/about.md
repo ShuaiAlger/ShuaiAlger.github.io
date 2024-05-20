@@ -20,6 +20,7 @@ redirect_from:
 Shuai
 
 My research interests are centered around three-dimensional vision in robotics, encompassing areas such as image matching, equivariant representation learning, visual localization, and extrinsic calibration.
+I have been invited to serve as a reviewer for conferences such as ICME, ICPR, ICRA, ICASSP, ICCVW and ECCVW.
 
 
 # 🔥 News
