@@ -76,9 +76,9 @@ Accurate and robust correspondence matching is of utmost importance for various 
 - Rotation-equivariant correspondence matching.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open</div><img src='images/repedesc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Rotation-Equivariance and Position Encodings for Enhancing Local Descriptors](https://openreview.net/pdf?id=6tDPefQyvB)
+[RE]
 **Shuai Su**, Qijun Chen
-Keypoint extraction and description are crucial issues in robot vision. In recent years, deep learning based keypoint extraction have exhibited robustness to variations in lighting and viewpoint. However, due to the lack of rotational invariance in traditional convolutional networks, performance of deep learning-based keypoint significantly deteriorates under large rotations. Group-equivariant neural networks based Keypoint address the issue of rotational equivariance, but their overall performance also suffers. This paper addresses the problem from the perspective of keypoint description and proposes a fusion of locally rotation-equivariant descriptions with globally encoded positional information and a directional uncertainty weighted descriptor loss. This effectively enhances the performance of keypoint extraction and description. Validation is conducted on rotated-HPatches, rotated-MegaDepth and rotated-YFCC100M datasets.
+.
 </div>
 </div>
 
